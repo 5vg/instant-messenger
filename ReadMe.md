@@ -11,5 +11,7 @@ Client can be started with java ChatClient
 -ccp optional parameter to change port from default - 14001
 
 To activate bot, type /botactivate in client
+
 To remove bot, type /botkick in client
+
 To play DoD, type /playdod in client
